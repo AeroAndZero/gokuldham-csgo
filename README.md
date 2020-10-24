@@ -1,4 +1,4 @@
-# gokuldham csgo
+# Gokuldham society re-created in CSGO
  The famous Gokuldham society re-created in csgo as a map
 ![gokuldham1](screenshots/gokuldham0001.jpg)
 ![gokuldham2](screenshots/gokuldham0002.jpg)
