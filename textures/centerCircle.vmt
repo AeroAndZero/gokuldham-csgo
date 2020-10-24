@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "centerCircle"
+	"$surfaceprop" "brick"
+	"$reflectivity" "[.1 .1 .1]"
+}
