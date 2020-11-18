@@ -3,4 +3,5 @@
 	"$basetexture" "centerCircle"
 	"$surfaceprop" "brick"
 	"$reflectivity" "[.1 .1 .1]"
+	"$color" "{180 180 180}"
 }

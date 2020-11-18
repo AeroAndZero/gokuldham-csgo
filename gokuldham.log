@@ -9353,3 +9353,918 @@ Total triangle count: 11473
 Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
 17 minutes, 48 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 832
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 452 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (256221 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 763 texinfos to 480
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+6 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+ 963 portalclusters
+2907 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 959 visible clusters (0.00%)
+Total clusters visible: 499282
+Average clusters visible: 518
+Building PAS...
+Average clusters audible: 941
+visdatasize:225317  compressed from 246528
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 minutes, 4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3964 faces
+3 degenerate faces
+174661 square feet [25151212.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3961 patches before subdivision
+19979 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3749170, max 1276
+transfer lists:  28.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(146509, 111198, 67078)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(43939, 30994, 17909)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14069, 9330, 5208)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5228, 3270, 1785)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2101, 1212, 646)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(904, 475, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(432, 195, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(212, 82, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(118, 36, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(64, 16, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(41, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(16, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(10, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                620/8192         7440/98304    ( 7.6%) 
+brushsides            6722/81920       53776/655360   ( 8.2%) 
+planes                7064/65536      141280/1310720  (10.8%) 
+vertexes              6849/65536       82188/786432   (10.5%) 
+nodes                 2057/65536       65824/2097152  ( 3.1%) 
+texinfos               480/12288       34560/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3964/65536      221984/3670016  ( 6.0%) 
+hdr faces             3964/65536      221984/3670016  ( 6.0%) 
+origfaces             2279/65536      127624/3670016  ( 3.5%) 
+facebrushes            322/0             644/0        ( 0.0%) 
+facebrushlists        3964/0           15856/0        ( 0.0%) 
+leaves                2059/65536       65888/2097152  ( 3.1%) 
+leaffaces             5115/65536       10230/131072   ( 7.8%) 
+leafbrushes           2170/65536        4340/131072   ( 3.3%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            28951/512000     115804/2048000  ( 5.7%) 
+edges                16519/256000      66076/1024000  ( 6.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          4/8192          400/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            358/32768        3580/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6063/65536       12126/131072   ( 9.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1405764/0        ( 0.0%) 
+visdata               [variable]      225317/16777216 ( 1.3%) 
+entdata               [variable]       33889/393216   ( 8.6%) 
+LDR ambient table     2059/65536        8236/262144   ( 3.1%) 
+HDR ambient table     2059/65536        8236/262144   ( 3.1%) 
+LDR leaf ambient      2059/65536       57652/1835008  ( 3.1%) 
+HDR leaf ambient      6778/65536      189784/1835008  (10.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/122628   ( 0.0%) 
+pakfile               [variable]     9126206/0        ( 0.0%) 
+physics               [variable]      256221/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 11308
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+4 minutes, 18 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 837
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (2032.00 2320.00 138.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 476 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258501 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 764 texinfos to 485
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+LoadPortals: couldn't read e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 841
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 456 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258501 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 766 texinfos to 482
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+ 688 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 634 visible clusters (0.00%)
+Total clusters visible: 265718
+Average clusters visible: 386
+Building PAS...
+Average clusters audible: 665
+visdatasize:117289  compressed from 121088
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 minutes, 45 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3694 faces
+3 degenerate faces
+184038 square feet [26501548.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3691 patches before subdivision
+20083 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3330061, max 1170
+transfer lists:  25.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(136641, 103656, 63097)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40027, 28425, 16527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12335, 8300, 4675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4542, 2924, 1605)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1757, 1063, 574)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(742, 416, 223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(334, 166, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(158, 68, 38)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(81, 28, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(42, 12, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(24, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(8, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0052 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            6856/81920       54848/655360   ( 8.4%) 
+planes                7324/65536      146480/1310720  (11.2%) 
+vertexes              6606/65536       79272/786432   (10.1%) 
+nodes                 1635/65536       52320/2097152  ( 2.5%) 
+texinfos               482/12288       34704/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3694/65536      206864/3670016  ( 5.6%) 
+hdr faces             3694/65536      206864/3670016  ( 5.6%) 
+origfaces             2295/65536      128520/3670016  ( 3.5%) 
+facebrushes            318/0             636/0        ( 0.0%) 
+facebrushlists        3694/0           14776/0        ( 0.0%) 
+leaves                1637/65536       52384/2097152  ( 2.5%) 
+leaffaces             4727/65536        9454/131072   ( 7.2%) 
+leafbrushes           2075/65536        4150/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            27880/512000     111520/2048000  ( 5.4%) 
+edges                16253/256000      65012/1024000  ( 6.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          4/8192          400/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            355/32768        3550/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6252/65536       12504/131072   ( 9.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1410500/0        ( 0.0%) 
+visdata               [variable]      117289/16777216 ( 0.7%) 
+entdata               [variable]       33889/393216   ( 8.6%) 
+LDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+HDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+LDR leaf ambient      1637/65536       45836/1835008  ( 2.5%) 
+HDR leaf ambient      5081/65536      142268/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/122456   ( 0.0%) 
+pakfile               [variable]     9126206/0        ( 0.0%) 
+physics               [variable]      258501/4194304  ( 6.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 10683
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+4 minutes, 2 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 842
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 456 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258501 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 766 texinfos to 482
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+ 688 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 634 visible clusters (0.00%)
+Total clusters visible: 265718
+Average clusters visible: 386
+Building PAS...
+Average clusters audible: 665
+visdatasize:117289  compressed from 121088
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3694 faces
+3 degenerate faces
+184038 square feet [26501548.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3691 patches before subdivision
+20083 patches after subdivision
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3328444, max 1170
+transfer lists:  25.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(138074, 105110, 64571)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40598, 29002, 17104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12570, 8538, 4911)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4637, 3021, 1700)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1796, 1103, 613)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(758, 432, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(340, 172, 96)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(161, 71, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(82, 30, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(43, 12, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(24, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(8, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0173 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            6856/81920       54848/655360   ( 8.4%) 
+planes                7324/65536      146480/1310720  (11.2%) 
+vertexes              6606/65536       79272/786432   (10.1%) 
+nodes                 1635/65536       52320/2097152  ( 2.5%) 
+texinfos               482/12288       34704/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3694/65536      206864/3670016  ( 5.6%) 
+hdr faces             3694/65536      206864/3670016  ( 5.6%) 
+origfaces             2295/65536      128520/3670016  ( 3.5%) 
+facebrushes            318/0             636/0        ( 0.0%) 
+facebrushlists        3694/0           14776/0        ( 0.0%) 
+leaves                1637/65536       52384/2097152  ( 2.5%) 
+leaffaces             4727/65536        9454/131072   ( 7.2%) 
+leafbrushes           2075/65536        4150/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            27880/512000     111520/2048000  ( 5.4%) 
+edges                16253/256000      65012/1024000  ( 6.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          7/8192          700/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            355/32768        3550/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6252/65536       12504/131072   ( 9.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1410500/0        ( 0.0%) 
+visdata               [variable]      117289/16777216 ( 0.7%) 
+entdata               [variable]       34867/393216   ( 8.9%) 
+LDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+HDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+LDR leaf ambient      1637/65536       45836/1835008  ( 2.5%) 
+HDR leaf ambient      5080/65536      142240/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/122866   ( 0.0%) 
+pakfile               [variable]     9149776/0        ( 0.0%) 
+physics               [variable]      258501/4194304  ( 6.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 10683
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+4 minutes, 32 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 847
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 456 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258501 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 766 texinfos to 482
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+ 688 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 634 visible clusters (0.00%)
+Total clusters visible: 265718
+Average clusters visible: 386
+Building PAS...
+Average clusters audible: 665
+visdatasize:117289  compressed from 121088
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3694 faces
+3 degenerate faces
+184038 square feet [26501548.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3691 patches before subdivision
+20083 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3328480, max 1170
+transfer lists:  25.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(142367, 109416, 68902)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42478, 30893, 19005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13396, 9370, 5748)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5000, 3387, 2068)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1957, 1265, 776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(830, 504, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(372, 205, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(175, 85, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(89, 36, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 15, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 7, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(9, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(5, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            6856/81920       54848/655360   ( 8.4%) 
+planes                7324/65536      146480/1310720  (11.2%) 
+vertexes              6606/65536       79272/786432   (10.1%) 
+nodes                 1635/65536       52320/2097152  ( 2.5%) 
+texinfos               482/12288       34704/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3694/65536      206864/3670016  ( 5.6%) 
+hdr faces             3694/65536      206864/3670016  ( 5.6%) 
+origfaces             2295/65536      128520/3670016  ( 3.5%) 
+facebrushes            318/0             636/0        ( 0.0%) 
+facebrushlists        3694/0           14776/0        ( 0.0%) 
+leaves                1637/65536       52384/2097152  ( 2.5%) 
+leaffaces             4727/65536        9454/131072   ( 7.2%) 
+leafbrushes           2075/65536        4150/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            27880/512000     111520/2048000  ( 5.4%) 
+edges                16253/256000      65012/1024000  ( 6.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         19/8192         1900/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            355/32768        3550/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6252/65536       12504/131072   ( 9.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1410500/0        ( 0.0%) 
+visdata               [variable]      117289/16777216 ( 0.7%) 
+entdata               [variable]       38779/393216   ( 9.9%) 
+LDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+HDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+LDR leaf ambient      1637/65536       45836/1835008  ( 2.5%) 
+HDR leaf ambient      5077/65536      142156/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/123850   ( 0.0%) 
+pakfile               [variable]     9206344/0        ( 0.0%) 
+physics               [variable]      258501/4194304  ( 6.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 10683
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+6 minutes, 11 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.vmf
+Map revision 847
+Patching WVT material: maps/gokuldham/nature/blend_oldleavesdirtleaves01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 456 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258501 bytes)
+Error! prop_static using model "models/props/cs_militia/barstool01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_militia/barstool01.mdl"!
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 950.00, 440.00)
+Static prop models/props/de_venice/loggetta_railing/loggetta_railing_32.mdl outside the map (3130.00, 918.00, 440.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 766 texinfos to 482
+Reduced 34 texdatas to 29 (926 bytes to 805)
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+4 threads
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+reading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.prt
+ 688 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 634 visible clusters (0.00%)
+Total clusters visible: 265718
+Average clusters visible: 386
+Building PAS...
+Average clusters audible: 665
+visdatasize:117289  compressed from 121088
+writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+28 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3694 faces
+3 degenerate faces
+184038 square feet [26501548.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3691 patches before subdivision
+20083 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3328480, max 1170
+transfer lists:  25.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(142396, 109437, 68916)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42476, 30888, 19001)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13391, 9366, 5746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4998, 3385, 2067)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1955, 1265, 776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(829, 504, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(372, 204, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(175, 85, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(89, 36, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 15, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 7, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(9, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(5, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0263 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            6856/81920       54848/655360   ( 8.4%) 
+planes                7324/65536      146480/1310720  (11.2%) 
+vertexes              6606/65536       79272/786432   (10.1%) 
+nodes                 1635/65536       52320/2097152  ( 2.5%) 
+texinfos               482/12288       34704/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3694/65536      206864/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2295/65536      128520/3670016  ( 3.5%) 
+facebrushes            318/0             636/0        ( 0.0%) 
+facebrushlists        3694/0           14776/0        ( 0.0%) 
+leaves                1637/65536       52384/2097152  ( 2.5%) 
+leaffaces             4727/65536        9454/131072   ( 7.2%) 
+leafbrushes           2075/65536        4150/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            27880/512000     111520/2048000  ( 5.4%) 
+edges                16253/256000      65012/1024000  ( 6.3%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            355/32768        3550/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6252/65536       12504/131072   ( 9.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1410500/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      117289/16777216 ( 0.7%) 
+entdata               [variable]       38779/393216   ( 9.9%) 
+LDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+HDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+LDR leaf ambient      5079/65536      142212/1835008  ( 7.7%) 
+HDR leaf ambient      1637/65536       45836/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/123850   ( 0.0%) 
+pakfile               [variable]     9195464/0        ( 0.0%) 
+physics               [variable]      258501/4194304  ( 6.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 10683
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+22 minutes, 11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+Loaded alpha texture materials\models\props\de_dust\hr_dust\balcony_railing_set\balcony_railing_set_color.vtf
+3694 faces
+3 degenerate faces
+184038 square feet [26501548.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3691 patches before subdivision
+20083 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3328480, max 1170
+transfer lists:  25.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(142396, 109437, 68916)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42476, 30888, 19001)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13391, 9366, 5746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4998, 3385, 2067)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1955, 1265, 776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(829, 504, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(372, 204, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(175, 85, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(89, 36, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 15, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 7, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(9, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(5, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0052 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            6856/81920       54848/655360   ( 8.4%) 
+planes                7324/65536      146480/1310720  (11.2%) 
+vertexes              6606/65536       79272/786432   (10.1%) 
+nodes                 1635/65536       52320/2097152  ( 2.5%) 
+texinfos               482/12288       34704/884736   ( 3.9%) 
+texdata                 29/4096          928/131072   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3694/65536      206864/3670016  ( 5.6%) 
+hdr faces             3694/65536      206864/3670016  ( 5.6%) 
+origfaces             2295/65536      128520/3670016  ( 3.5%) 
+facebrushes            318/0             636/0        ( 0.0%) 
+facebrushlists        3694/0           14776/0        ( 0.0%) 
+leaves                1637/65536       52384/2097152  ( 2.5%) 
+leaffaces             4727/65536        9454/131072   ( 7.2%) 
+leafbrushes           2075/65536        4150/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            27880/512000     111520/2048000  ( 5.4%) 
+edges                16253/256000      65012/1024000  ( 6.3%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights         19/8192         1900/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            355/32768        3550/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6252/65536       12504/131072   ( 9.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1410500/0        ( 0.0%) 
+HDR lightdata         [variable]     1410500/0        ( 0.0%) 
+visdata               [variable]      117289/16777216 ( 0.7%) 
+entdata               [variable]       38779/393216   ( 9.9%) 
+LDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+HDR ambient table     1637/65536        6548/262144   ( 2.5%) 
+LDR leaf ambient      5079/65536      142212/1835008  ( 7.7%) 
+HDR leaf ambient      5079/65536      142212/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/123850   ( 0.0%) 
+pakfile               [variable]    18251324/0        ( 0.0%) 
+physics               [variable]      258501/4194304  ( 6.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 10683
+Writing e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\gokuldham.bsp', but we don't own that location. Allowing...
+27 minutes, 59 seconds elapsed
